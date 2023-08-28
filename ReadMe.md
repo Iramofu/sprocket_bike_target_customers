@@ -2,7 +2,7 @@
 Analysis of segment of customers that should be targeted for optimization of sales
 
 
-![Screenshot showing graphical repesentation of the analysis done.](/screenshot_of_analysis.png)
+![Screenshot showing graphical repesentation of the analysis done.](/Screenshot_of_analysis.png)
 
 ## Steps taken
 
